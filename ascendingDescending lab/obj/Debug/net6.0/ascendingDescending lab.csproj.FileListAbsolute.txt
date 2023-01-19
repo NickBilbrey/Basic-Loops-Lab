@@ -1,0 +1,15 @@
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\bin\Debug\net6.0\ascendingDescending lab.exe
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\bin\Debug\net6.0\ascendingDescending lab.deps.json
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\bin\Debug\net6.0\ascendingDescending lab.runtimeconfig.json
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\bin\Debug\net6.0\ascendingDescending lab.dll
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\bin\Debug\net6.0\ascendingDescending lab.pdb
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.csproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.dll
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\refint\ascendingDescending lab.dll
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.pdb
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ascendingDescending lab.genruntimeconfig.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\ascendingDescending lab\obj\Debug\net6.0\ref\ascendingDescending lab.dll

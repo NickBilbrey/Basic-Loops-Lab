@@ -1,0 +1,15 @@
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\bin\Debug\net6.0\acendescend2.exe
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\bin\Debug\net6.0\acendescend2.deps.json
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\bin\Debug\net6.0\acendescend2.runtimeconfig.json
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\bin\Debug\net6.0\acendescend2.dll
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\bin\Debug\net6.0\acendescend2.pdb
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.csproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.dll
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\refint\acendescend2.dll
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.pdb
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\acendescend2.genruntimeconfig.cache
+C:\Users\Nicholas\source\repos\Grand circus\ascendingDescending lab\acendescend2\obj\Debug\net6.0\ref\acendescend2.dll
